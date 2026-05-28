@@ -1,12 +1,10 @@
-# Olá, eu sou o Luiz Henrique! 🎯
+# Olá, sou o Luiz Henrique!
 
-**Software Engineer | Foco em Ecossistema Next.js & Qualidade de Software** | Anápolis, GO
-
-Atuo na construção de aplicações web resilientes, priorizando integração contínua (CI/CD), cobertura de testes e arquiteturas escaláveis. Meu objetivo é entregar código previsível que resolva regras de negócio complexas.
+**Software Engineer - Full Stack** | Anápolis, GO
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 - ⚙️ **Foco de Atuação:** Desenvolvimento Full Stack com ênfase no ecossistema **Next.js, React e TypeScript**.
 
@@ -18,14 +16,22 @@ Atuo na construção de aplicações web resilientes, priorizando integração c
 
 ---
 
-### 🛠️ Stack Tecnológica & Ferramentas
+### 🛠️ Stacks
 
-[![Core & Rendering](https://skillicons.dev/icons?i=nextjs,react,ts)](https://skillicons.dev)
+**Engenharia Frontend**
 
-[![Qualidade, Automação & DevOps](https://skillicons.dev/icons?i=githubactions,vercel)](https://skillicons.dev)
+[![Next.js, React, TypeScript, JavaScript](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap)](https://skillicons.dev)
 
-[![Dados, Cache & Integrações](https://skillicons.dev/icons?i=redis,figma)](https://skillicons.dev)
+**Engenharia Backend**
+
+[![GitHub Actions, Vercel, Python](https://skillicons.dev/icons?i=mysql,postgres,redis,prisma,nestjs,nodejs)](https://skillicons.dev)
+
+**Integração Contínua**
+
+[![PostgreSQL, MySQL, Redis, Figma](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
 
 ---
 
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/luiz-henrique-cunha-siqueira-352909309) | [E-mail](mailto:lhenrique181104@gmail.com)
+💬 **Entre em contato :)** 
+
+[LinkedIn](https://www.linkedin.com/in/luiz-henrique-cunha-siqueira-352909309) | [E-mail](mailto:lhenrique181104@gmail.com)
