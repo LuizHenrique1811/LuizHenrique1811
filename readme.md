@@ -6,13 +6,10 @@
 
 ### Sobre mim
 
-- ⚙️ **Foco de Atuação:** Desenvolvimento Full Stack com ênfase no ecossistema **Next.js, React e TypeScript**.
+Sou um desenvolvedor focado em criar aplicações web que resolvam problemas reais, priorizando código previsível, testável e de fácil manutenção. 
 
-- 🛡️ **Garantia de Qualidade:** Implementação de testes automatizados (Pytest), automação de pipelines via GitHub Actions e desenvolvimento orientado a comportamento (BDD/Gherkin).
-
-- 🏗️ **Arquitetura & Dados:** Modelagem de dados relacionais, controle de concorrência e integração com APIs transacionais (ex: Mercado Pago).
-
-- 🔧 **Sustentação:** Experiência com engenharia reversa e modernização de dívida técnica em sistemas legados.
+- Foco de atuação no ecossistema **Next.js e React**.
+- Bacharel em engenharia de software 7/8
 
 ---
 
